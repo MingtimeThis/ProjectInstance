@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.lead.projectinstance.activity.MainActivity">
+
+
+    <Button
+        android:id="@+id/act_home_btn_login"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:text="跳转" />
+
+    <Button
+        android:id="@+id/act_home_btn_relation"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:text="联系人" />
+
+    <TextView
+        android:id="@+id/act_home_tv_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="选择的姓名"
+        android:padding="10dp" />
+
+    <TextView
+        android:id="@+id/act_home_tv_phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="选择的电话"
+        android:padding="10dp" />
+
+
+</LinearLayout>

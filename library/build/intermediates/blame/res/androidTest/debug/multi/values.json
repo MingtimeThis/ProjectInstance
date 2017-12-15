@@ -1,0 +1,189 @@
+[
+    {
+        "outputFile": "C:\\Users\\Administrator\\Desktop\\ProjectInstance\\library\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1660,
+                    "endColumn": 63,
+                    "endOffset": 1719
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\ProjectInstance\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1660,
+                        "endColumn": 63,
+                        "endOffset": 1719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1724,
+                    "endColumn": 62,
+                    "endOffset": 1782
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\ProjectInstance\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1724,
+                        "endColumn": 62,
+                        "endOffset": 1782
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1787,
+                    "endColumn": 54,
+                    "endOffset": 1837
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\ProjectInstance\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1842,
+                    "endColumn": 56,
+                    "endOffset": 1894
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\ProjectInstance\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1899,
+                    "endColumn": 54,
+                    "endOffset": 1949
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\ProjectInstance\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1954,
+                    "endColumn": 37,
+                    "endOffset": 1987
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\ProjectInstance\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1992,
+                    "endColumn": 39,
+                    "endOffset": 2027
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\ProjectInstance\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2032,
+                    "endColumn": 36,
+                    "endOffset": 2064
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\ProjectInstance\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2069,
+                    "endColumn": 101,
+                    "endOffset": 2166
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\ProjectInstance\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2171,
+                    "endColumn": 113,
+                    "endOffset": 2280
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\ProjectInstance\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2285,
+                    "endColumn": 107,
+                    "endOffset": 2388
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\ProjectInstance\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2393,
+                    "endColumn": 71,
+                    "endOffset": 2460
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\ProjectInstance\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2465,
+                    "endColumn": 69,
+                    "endOffset": 2530
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\ProjectInstance\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2535,
+                    "endColumn": 77,
+                    "endOffset": 2608
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\ProjectInstance\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml"
+                }
+            }
+        ]
+    }
+]
